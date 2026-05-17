@@ -1,3 +1,15 @@
-Sun 17 May 21:00:01 BST 2026
-Regenerate token, regenerateStatusCode=401
-('Execution stopped. Regenerate token status code:', 401)
+Sun 17 May 21:57:17 BST 2026
+Regenerate token, regenerateStatusCode=200
+previousRunDate='2026-05-16'
+Batch number:  2, status code (200 is good): 200
+Batch number:  3, status code (200 is good): 200
+Batch number:  4, 404, skipped, no new prices
+Batch number:  9, 404, skipped, no new prices
+Batch number: 10, 404, skipped, no new prices
+Batch number: 12, 404, skipped, no new prices
+Batch number: 14, 404, skipped, no new prices
+Batch number: 16, 404, skipped, no new prices
+Number of petrol stations searched for: 10
+Number of petrol stations found: 10
+{'Perth Extra - Petrol Filling Station': [155.9, '2026-04-02'], 'Kinross Service Area': [169.9, '2026-05-13'], 'Fossoway Garage': [164.9, '2026-05-15'], 'Asda Perth Superstore': [155.7, '2026-04-07'], 'Dairsie Autopoint': [155.7, '2026-05-11'], 'Stewart And Smart': [158.9, '2026-05-11'], 'Cupar Superstore - Petrol Filling Station': [155.9, '2026-05-08'], 'Tgc - St Johnstone': [156.9, '2026-04-24'], 'Mfg Morrisons Perth': [155.9, '2026-04-03'], 'runDate': '2026-05-17', 'Dundee Riverside Extra - Petrol Filling Station': [153.9, '2026-04-03']}
+Write index.html,returnCode=0
