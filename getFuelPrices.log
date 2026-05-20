@@ -1,17 +1,5 @@
-Tue 19 May 21:13:36 BST 2026
-{'client_id': '9MrbDaXk1hI4YzmrvaciqGxXtYPFFtVD', 'refresh_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJraW5kIjoicHVibGljIiwiY2xpZW50X2lkIjoiOU1yYkRhWGsxaEk0WXptcnZhY2lxR3hYdFlQRkZ0VkQiLCJpbmZvX3JlY2lwaWVudF9pZCI6IjUwMzEyMjU4LWVlM2YtNDUwMi1hMjU0LTllYzE5Y2U4ODRkMyIsInRva2VuX3VzZSI6InJlZnJlc2giLCJzdWIiOiI5TXJiRGFYazFoSTRZem1ydmFjaXFHeFh0WVBGRnRWRCIsImF1ZCI6Im9hdXRoIiwiaWF0IjoxNzc5MjIxNTM5LCJleHAiOjE3NzkzOTQzMzl9.HIx00e6Rk8CfZU-ZJ3Borr8k3xcS5BCbg1kMjAqSJrg'}
-{'client_id': '9MrbDaXk1hI4YzmrvaciqGxXtYPFFtVD', 'refresh_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJraW5kIjoicHVibGljIiwiY2xpZW50X2lkIjoiOU1yYkRhWGsxaEk0WXptcnZhY2lxR3hYdFlQRkZ0VkQiLCJpbmZvX3JlY2lwaWVudF9pZCI6IjUwMzEyMjU4LWVlM2YtNDUwMi1hMjU0LTllYzE5Y2U4ODRkMyIsInRva2VuX3VzZSI6InJlZnJlc2giLCJzdWIiOiI5TXJiRGFYazFoSTRZem1ydmFjaXFHeFh0WVBGRnRWRCIsImF1ZCI6Im9hdXRoIiwiaWF0IjoxNzc5MjIxNjE4LCJleHAiOjE3NzkzOTQ0MTh9.GtVyXUWxf3ltFTA3gR-t4IywyoUlCkwjE-BP3YeJVYg'}
-Regenerate token, regenerateStatusCode=200
-previousRunDate='2026-05-19'
-Batch number:  2, status code (200 is good): 200
-Batch number:  3, status code (200 is good): 200
-Batch number:  4, 404, skipped, no new prices
-Batch number:  9, 404, skipped, no new prices
-Batch number: 10, 404, skipped, no new prices
-Batch number: 12, 404, skipped, no new prices
-Batch number: 14, 404, skipped, no new prices
-Batch number: 16, 404, skipped, no new prices
-Number of petrol stations searched for: 10
-Number of petrol stations found: 10
-{'Perth Extra - Petrol Filling Station': [155.9, '2026-04-02'], 'Kinross Service Area': [169.9, '2026-05-13'], 'Fossoway Garage': [162.9, '2026-05-19'], 'Asda Perth Superstore': [156.7, '2026-05-18'], 'Dairsie Autopoint': [155.7, '2026-05-11'], 'Stewart And Smart': [161.9, '2026-05-18'], 'Cupar Superstore - Petrol Filling Station': [155.9, '2026-05-08'], 'Tgc - St Johnstone': [158.9, '2026-05-19'], 'Mfg Morrisons Perth': [155.9, '2026-04-03'], 'runDate': '2026-05-19', 'Dundee Riverside Extra - Petrol Filling Station': [153.9, '2026-04-03']}
-Write index.html,returnCode=0
+Wed 20 May 18:26:01 BST 2026
+{'client_id': '9MrbDaXk1hI4YzmrvaciqGxXtYPFFtVD', 'refresh_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJraW5kIjoicHVibGljIiwiY2xpZW50X2lkIjoiOU1yYkRhWGsxaEk0WXptcnZhY2lxR3hYdFlQRkZ0VkQiLCJpbmZvX3JlY2lwaWVudF9pZCI6IjUwMzEyMjU4LWVlM2YtNDUwMi1hMjU0LTllYzE5Y2U4ODRkMyIsInRva2VuX3VzZSI6InJlZnJlc2giLCJzdWIiOiI5TXJiRGFYazFoSTRZem1ydmFjaXFHeFh0WVBGRnRWRCIsImF1ZCI6Im9hdXRoIiwiaWF0IjoxNzc5Mjk3OTA0LCJleHAiOjE3Nzk0NzA3MDR9.HyaQb41iXiSPEkIh5bxfmx_aTOqtMaLmcJzMqBqdxmg'}
+{'client_id': '9MrbDaXk1hI4YzmrvaciqGxXtYPFFtVD', 'refresh_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJraW5kIjoicHVibGljIiwiY2xpZW50X2lkIjoiOU1yYkRhWGsxaEk0WXptcnZhY2lxR3hYdFlQRkZ0VkQiLCJpbmZvX3JlY2lwaWVudF9pZCI6IjUwMzEyMjU4LWVlM2YtNDUwMi1hMjU0LTllYzE5Y2U4ODRkMyIsInRva2VuX3VzZSI6InJlZnJlc2giLCJzdWIiOiI5TXJiRGFYazFoSTRZem1ydmFjaXFHeFh0WVBGRnRWRCIsImF1ZCI6Im9hdXRoIiwiaWF0IjoxNzc5Mjk3OTYzLCJleHAiOjE3Nzk0NzA3NjN9.yrcpJOcEwi4PlBmVyrE7vM6aASxIvBK0FOKrqbuQqjg'}
+Regenerate token, regenerateStatusCode=401
+('Execution stopped. Regenerate token status code:', 401)
