@@ -1,17 +1,16 @@
-Thu 28 May 22:11:35 BST 2026
+Thu 28 May 22:19:57 BST 2026
 regenerateStatusCode=200
-File fuelPriceData.json not found, proceeding
-previousRunDate='2026-01-01'
-File fuelFinderData.json not found
+previousRunDate='2026-05-28'
 Batch number:  2, status code (200 is good): 200
 Batch number:  3, status code (200 is good): 200
-Batch number:  4, status code (200 is good): 200
-Batch number:  9, status code (200 is good): 200
-Batch number: 10, status code (200 is good): 200
-Batch number: 12, status code (200 is good): 200
-Batch number: 14, status code (200 is good): 200
-Batch number: 16, status code (200 is good): 200
+Batch number:  4, 404, skipped, no new prices
+Batch number:  9, 404, skipped, no new prices
+Batch number: 10, 404, skipped, no new prices
+Batch number: 12, 404, skipped, no new prices
+Batch number: 14, 404, skipped, no new prices
+Batch number: 16, 404, skipped, no new prices
 Number of petrol stations searched for: 10
-Number of petrol stations found: 6
-{'Stewart And Smart': [161.9, '2026-05-18'], 'Dairsie Autopoint': [155.7, '2026-05-11'], 'Fossoway Garage': [162.9, '2026-05-19'], 'Tgc - St Johnstone': [160.9, '2026-05-20'], 'Dundee Riverside Extra - Petrol Filling Station': [154.9, '2026-05-20'], 'Asda Perth Superstore': [157.7, '2026-05-28'], 'Mfg Morrisons Perth': [159.9, '2026-05-28'], 'runDate': '2026-05-28'}
+Number of petrol stations found: 10
+Number of price updates in this run: 2
+{'runDate': '2026-05-28', 'Kinross Service Area': [170.9, '2026-05-21T10:15:07.000Z', 2, '35b4'], 'Asda Perth Superstore': [157.7, '2026-05-28T16:50:15.000Z', 3, '3c4f'], 'Dairsie Autopoint': [155.7, '2026-05-11'], 'Tgc - St Johnstone': [160.9, '2026-05-20'], 'Perth Extra - Petrol Filling Station': [157.9, '2026-05-20T14:59:24.000Z', 9, 'ce67'], 'Cupar Superstore - Petrol Filling Station': [155.9, '2026-05-08T14:32:36.000Z', 3, 'edd3'], 'Fossoway Garage': [162.9, '2026-05-19'], 'Mfg Morrisons Perth': [159.9, '2026-05-28T21:02:50.000Z', 3, 'ed7d'], 'Stewart And Smart': [161.9, '2026-05-18'], 'Dundee Riverside Extra - Petrol Filling Station': [154.9, '2026-05-20']}
 Write index.html,returnCode=0
