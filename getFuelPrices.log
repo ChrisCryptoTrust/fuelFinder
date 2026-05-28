@@ -1,16 +1,8 @@
-Thu 28 May 22:03:10 BST 2026
-regenerateStatusCode=401
-Failed to reauthorise and regenerate 1 times before proceeding
-previousRunDate='2026-05-20'
-Batch number:  2, status code (200 is good): 200
-Batch number:  3, status code (200 is good): 200
-Batch number:  4, status code (200 is good): 200
-Batch number:  9, status code (200 is good): 200
-Batch number: 10, status code (200 is good): 200
-Batch number: 12, status code (200 is good): 200
-Batch number: 14, 404, skipped, no new prices
-Batch number: 16, 404, skipped, no new prices
-Number of petrol stations searched for: 10
-Number of petrol stations found: 10
-{'Perth Extra - Petrol Filling Station': [157.9, '2026-05-20'], 'Kinross Service Area': [170.9, '2026-05-21'], 'Fossoway Garage': [162.9, '2026-05-19'], 'Asda Perth Superstore': [158.7, '2026-05-22'], 'Dairsie Autopoint': [155.7, '2026-05-11'], 'Stewart And Smart': [161.9, '2026-05-18'], 'Cupar Superstore - Petrol Filling Station': [155.9, '2026-05-08'], 'Tgc - St Johnstone': [160.9, '2026-05-20'], 'Mfg Morrisons Perth': [158.9, '2026-05-21'], 'runDate': '2026-05-28', 'Dundee Riverside Extra - Petrol Filling Station': [154.9, '2026-05-20']}
-Write index.html,returnCode=0
+Thu 28 May 22:04:40 BST 2026
+regenerateStatusCode=200
+File fuelPriceData.json not found, proceeding
+Traceback (most recent call last):
+  File "/home/chris/Python/fuelFinder/getFuelPrices.py", line 62, in <module>
+    previousRunDate = fuelPriceDictionary.get('runDate', '2026-01-01')
+                      ^^^^^^^^^^^^^^^^^^^
+NameError: name 'fuelPriceDictionary' is not defined
