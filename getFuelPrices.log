@@ -1,8 +1,9 @@
-Thu 28 May 22:04:40 BST 2026
-regenerateStatusCode=200
+Thu 28 May 22:09:49 BST 2026
+regenerateStatusCode=401
+Failed to reauthorise and regenerate 1 times before proceeding
 File fuelPriceData.json not found, proceeding
 Traceback (most recent call last):
-  File "/home/chris/Python/fuelFinder/getFuelPrices.py", line 62, in <module>
+  File "/home/chris/Python/fuelFinder/getFuelPrices.py", line 63, in <module>
     previousRunDate = fuelPriceDictionary.get('runDate', '2026-01-01')
-                      ^^^^^^^^^^^^^^^^^^^
-NameError: name 'fuelPriceDictionary' is not defined
+                      ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
