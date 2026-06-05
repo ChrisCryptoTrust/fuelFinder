@@ -1,25 +1,20 @@
-Thu  4 Jun 21:00:01 BST 2026
+Fri  5 Jun 21:00:01 BST 2026
 regenerateStatusCode=401
 Failed to reauthorise and regenerate 1 time(s) before proceeding
-previousRunDate='2026-06-01'
+previousRunDate='2026-06-04'
 Batch number:  1, status code (200 is good): 200
 Batch number:  2, status code (200 is good): 200
 Batch number:  3, status code (200 is good): 200
 Batch number:  4, status code (200 is good): 200
 Batch number:  5, status code (200 is good): 200
-Price change: -1.0
 Batch number:  6, status code (200 is good): 200
 Batch number:  7, status code (200 is good): 200
 Batch number:  8, status code (200 is good): 200
-Batch number:  9, status code (200 is good): 200
-Batch number: 10, status code (200 is good): 200
-Batch number: 11, status code (200 is good): 200
-Batch number: 12, status code (200 is good): 200
-Batch number: 13, 404, no more new prices
+Batch number:  9, 404, no more new prices
 Number of petrol stations searched for: 10
 Number of petrol stations found: 10
-Number of price updates in this run: 1
-{'runDate': '2026-06-04', 'Kinross Service Area': [170.9, '2026-05-21T10:15:07.000Z', 2, '35b4'], 'Asda Perth Superstore': [157.7, '2026-05-28T16:50:15.000Z', 2, '3c4f'], 'Dairsie Autopoint': [155.7, '2026-05-11'], 'Tgc - St Johnstone': [159.9, '2026-06-01T10:34:13.000Z', 'batch01', 'a423', 0.0], 'Perth Extra - Petrol Filling Station': [157.9, '2026-05-20T14:59:24.000Z', 9, 'ce67'], 'Cupar Superstore - Petrol Filling Station': [155.9, '2026-05-08T14:32:36.000Z', 3, 'edd3'], 'Fossoway Garage': [162.9, '2026-05-19'], 'Mfg Morrisons Perth': [157.9, '2026-06-03T21:23:39.000Z', 'batch05', 'ed7d', -1.0], 'Stewart And Smart': [161.9, '2026-05-18'], 'Dundee Riverside Extra - Petrol Filling Station': [153.9, '2026-06-03T11:29:56.000Z', 'batch09', '93f3', -1.0]}
+Number of price updates in this run: 0
+{'runDate': '2026-06-05', 'Kinross Service Area': [170.9, '2026-05-21T10:15:07.000Z', 2, '35b4'], 'Asda Perth Superstore': [157.7, '2026-05-28T16:50:15.000Z', 2, '3c4f'], 'Dairsie Autopoint': [155.7, '2026-05-11'], 'Tgc - St Johnstone': [159.9, '2026-06-01T10:34:13.000Z', 'batch01', 'a423', 0.0], 'Perth Extra - Petrol Filling Station': [157.9, '2026-05-20T14:59:24.000Z', 9, 'ce67'], 'Cupar Superstore - Petrol Filling Station': [155.9, '2026-05-08T14:32:36.000Z', 3, 'edd3'], 'Fossoway Garage': [162.9, '2026-05-19'], 'Mfg Morrisons Perth': [157.9, '2026-06-03T21:23:39.000Z', 'batch05', 'ed7d', -1.0], 'Stewart And Smart': [161.9, '2026-05-18'], 'Dundee Riverside Extra - Petrol Filling Station': [153.9, '2026-06-03T11:29:56.000Z', 'batch09', '93f3', -1.0]}
 Write index.html,returnCode=0
 Traceback (most recent call last):
   File "/home/chris/Python/fuelFinder/getFuelPrices.py", line 135, in <module>
