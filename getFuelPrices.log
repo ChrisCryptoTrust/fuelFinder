@@ -1,22 +1,26 @@
-Thu 18 Jun 21:00:01 BST 2026
+Fri 19 Jun 21:00:01 BST 2026
 regenerateStatusCode=401
 Failed to reauthorise and regenerate 1 time(s) before proceeding
 previousRunDate='2026-06-16'
 Batch number:  1, status code (200 is good): 200
+Price change: -2.0
+Price change: -2.0
 Batch number:  2, status code (200 is good): 200
 Batch number:  3, status code (200 is good): 200
 Batch number:  4, status code (200 is good): 200
-Batch number:  5, status code (200 is good): 200
+Batch number:  5, skipped, status code: 503 Service Temporarily Unavailable
 Batch number:  6, status code (200 is good): 200
-Batch number:  7, skipped, status code: 503 Service Temporarily Unavailable
+Batch number:  7, status code (200 is good): 200
 Batch number:  8, status code (200 is good): 200
 Batch number:  9, status code (200 is good): 200
 Batch number: 10, status code (200 is good): 200
 Batch number: 11, status code (200 is good): 200
 Batch number: 12, status code (200 is good): 200
-Batch number: 13, 404, no more new prices
+Batch number: 13, status code (200 is good): 200
+Batch number: 14, status code (200 is good): 200
+Batch number: 15, 404, no more new prices
 Number of petrol stations searched for: 10
 Number of petrol stations found: 10
-Number of price updates in this run: 0
+Number of price updates in this run: 2
 Write index.html,returnCode=0
 Write detail.html,returnCode=0
