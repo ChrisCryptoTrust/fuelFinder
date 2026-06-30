@@ -1,15 +1,17 @@
-Mon 29 Jun 21:00:01 BST 2026
+Tue 30 Jun 21:00:01 BST 2026
 regenerateStatusCode=200
-previousRunDate='2026-06-28'
+previousRunDate='2026-06-29'
 Batch number:  1, status code (200 is good): 200
 Batch number:  2, status code (200 is good): 200
 Batch number:  3, status code (200 is good): 200
-Tgc - St Johnstone price change: -1.0
 Batch number:  4, status code (200 is good): 200
-Kinross Service Area price change: -1.0
-Batch number:  5, 404, no more new prices
+Batch number:  5, status code (200 is good): 200
+Batch number:  6, status code (200 is good): 200
+Batch number:  7, status code (200 is good): 200
+Batch number:  8, status code (200 is good): 200
+Batch number:  9, 404, no more new prices
 Number of stations in input file: 11
 Number of stations in output: 11
-Number of price updates in this run: 2
+Number of price updates in this run: 0
 Write index.html:returnCode=0
 Write detail.html:returnCode=0
