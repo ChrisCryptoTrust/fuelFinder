@@ -1,4 +1,4 @@
-Thu  2 Jul 21:00:01 BST 2026
+Fri  3 Jul 21:00:01 BST 2026
 regenerateStatusCode=401
 Failed to reauthorise and regenerate 1 time(s) before proceeding
 previousRunDate='2026-07-01'
@@ -9,8 +9,11 @@ Batch number:  4, status code (200 is good): 200
 Batch number:  5, status code (200 is good): 200
 Batch number:  6, status code (200 is good): 200
 Batch number:  7, status code (200 is good): 200
-Batch number:  8, skipped, status code: 503 Service Temporarily Unavailable
-Batch number:  9, 404, no more new prices
+Batch number:  8, status code (200 is good): 200
+Batch number:  9, status code (200 is good): 200
+Batch number: 10, status code (200 is good): 200
+Batch number: 11, skipped, status code: 503 Service Temporarily Unavailable
+Batch number: 12, 404, no more new prices
 Number of stations in input file: 13
 Number of stations in output: 13
 Number of price updates in this run: 0
