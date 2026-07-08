@@ -1,18 +1,15 @@
-Tue  7 Jul 21:00:01 BST 2026
+Wed  8 Jul 21:00:01 BST 2026
 regenerateStatusCode=401
 Failed to reauthorise and regenerate 1 time(s) before proceeding
-previousRunDate='2026-07-06'
+previousRunDate='2026-07-07'
 Batch number:  1, status code (200 is good): 200
 Batch number:  2, status code (200 is good): 200
-Tgc - St Johnstone price change: 1.0
-Shell Strathtay price change: -2.0
 Batch number:  3, status code (200 is good): 200
 Batch number:  4, status code (200 is good): 200
 Batch number:  5, status code (200 is good): 200
-Batch number:  6, status code (200 is good): 200
-Batch number:  7, 404, no more new prices
+Batch number:  6, 404, no more new prices
 Number of stations in input file: 13
 Number of stations in output: 13
-Number of price updates in this run: 2
+Number of price updates in this run: 0
 Write index.html:returnCode=0
 Write detail.html:returnCode=0
