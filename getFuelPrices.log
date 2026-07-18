@@ -1,25 +1,29 @@
-Fri 17 Jul 21:00:02 BST 2026
+Sat 18 Jul 21:00:01 BST 2026
 regenerateStatusCode=401
 Failed to reauthorise and regenerate 1 time(s) before proceeding
-previousRunDate='2026-07-16'
+previousRunDate='2026-07-17'
 Batch number:  1, status code (200 is good): 200
+Asda Perth Superstore price change: 1.0
 Batch number:  2, status code (200 is good): 200
 Batch number:  3, status code (200 is good): 200
-Perth Extra - Petrol Filling Station price change: 1.0
 Batch number:  4, status code (200 is good): 200
-Batch number:  5, status code (200 is good): 200
-Dairsie Autopoint price change: 3.0
-Kinross Service Area price change: 1.0
-Tgc - St Johnstone price change: 1.0
-Batch number:  6, status code (200 is good): 200
-Batch number:  7, status code (200 is good): 200
-Batch number:  8, status code (200 is good): 200
-Mfg Morrisons Perth price change: 1.0
-Batch number:  9, status code (200 is good): 200
-Batch number: 10, status code (200 is good): 200
-Batch number: 11, 404, no more new prices
+Batch number:  5, skipped, status code: 503 Service Temporarily Unavailable
+Batch number:  6, skipped, status code: 503 Service Temporarily Unavailable
+Batch number:  7, skipped, status code: 503 Service Temporarily Unavailable
+Batch number:  8, skipped, status code: 503 Service Temporarily Unavailable
+Batch number:  9, skipped, status code: 503 Service Temporarily Unavailable
+Batch number: 10, skipped, status code: 503 Service Temporarily Unavailable
+Batch number: 11, skipped, status code: 503 Service Temporarily Unavailable
+Batch number: 12, skipped, status code: 503 Service Temporarily Unavailable
+Batch number: 13, skipped, status code: 503 Service Temporarily Unavailable
+Batch number: 14, skipped, status code: 503 Service Temporarily Unavailable
+Batch number: 15, skipped, status code: 503 Service Temporarily Unavailable
+Batch number: 16, skipped, status code: 503 Service Temporarily Unavailable
+Batch number: 17, skipped, status code: 503 Service Temporarily Unavailable
+Batch number: 18, skipped, status code: 503 Service Temporarily Unavailable
+Batch number: 19, skipped, status code: 503 Service Temporarily Unavailable
 Number of stations in input file: 13
 Number of stations in output: 13
-Number of price updates in this run: 5
-Write index.html:returnCode=0
-Write detail.html:returnCode=0
+Number of price updates in this run: 1
+Write index.html: returnCode=0
+Write detail.html: returnCode=0
