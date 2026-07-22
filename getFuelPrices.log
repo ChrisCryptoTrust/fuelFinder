@@ -1,31 +1,24 @@
-Tue 21 Jul 21:00:01 BST 2026
+Wed 22 Jul 21:00:01 BST 2026
 regenerateStatusCode=401
 Failed to reauthorise and regenerate 1 time(s) before proceeding
-previousRunDate='2026-07-17'
+previousRunDate='2026-07-21'
 Batch number:  1, status code (200 is good): 200
-Asda Perth Superstore price change: 1.0
+Shell Strathtay price change: 2.0
 Batch number:  2, status code (200 is good): 200
 Batch number:  3, status code (200 is good): 200
-Dairsie Autopoint price change: -3.0
 Batch number:  4, status code (200 is good): 200
 Batch number:  5, status code (200 is good): 200
 Batch number:  6, status code (200 is good): 200
-Shell Strathtay price change: 2.0
-Kinross Service Area price change: 1.0
+Fossoway Garage price change: 4.0
 Batch number:  7, status code (200 is good): 200
 Batch number:  8, status code (200 is good): 200
 Batch number:  9, status code (200 is good): 200
-Mfg Morrisons Perth price change: 1.0
 Batch number: 10, status code (200 is good): 200
 Batch number: 11, status code (200 is good): 200
-Batch number: 12, status code (200 is good): 200
-Stewart And Smart price change: 4.0
-Batch number: 13, status code (200 is good): 200
-Batch number: 14, status code (200 is good): 200
-Batch number: 15, 404, no more new prices
-Run date updated to:  2026-07-21
+Batch number: 12, 404, no more new prices
+Run date updated to:  2026-07-22
 Number of stations in input file: 13
 Number of stations in output: 13
-Number of price updates in this run: 6
+Number of price updates in this run: 2
 Write index.html: returnCode=0
 Write detail.html: returnCode=0
