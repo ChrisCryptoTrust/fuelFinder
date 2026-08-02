@@ -1,20 +1,19 @@
-Sat  1 Aug 21:00:01 BST 2026
+Sun  2 Aug 21:00:01 BST 2026
 regenerateStatusCode=200
-previousRunDate='2026-07-31'
+previousRunDate='2026-08-01'
 Batch number:  1, status code (200 is good): 200
-Tgc - St Johnstone price change: 1.0
 Batch number:  2, status code (200 is good): 200
+Asda Perth Superstore price change: 1.0
+Asda Dundee West Superstore price change: 1.0
 Batch number:  3, status code (200 is good): 200
+Shell Strathtay price change: 1.0
 Batch number:  4, status code (200 is good): 200
 Batch number:  5, status code (200 is good): 200
 Batch number:  6, status code (200 is good): 200
-Batch number:  7, status code (200 is good): 200
-Batch number:  8, status code (200 is good): 200
-Batch number:  9, status code (200 is good): 200
-Batch number: 10, 404, no more new prices
-Run date updated to:  2026-08-01
+Batch number:  7, 404, no more new prices
+Run date updated to:  2026-08-02
 Number of stations in input file: 13
 Number of stations in output: 13
-Number of price updates in this run: 1
+Number of price updates in this run: 3
 Write index.html: returnCode=0
 Write detail.html: returnCode=0
