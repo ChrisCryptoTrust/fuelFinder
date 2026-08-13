@@ -1,13 +1,15 @@
-Wed 12 Aug 21:00:01 BST 2026
-regenerateStatusCode=200
-previousRunDate='2026-08-11'
+Thu 13 Aug 21:00:01 BST 2026
+regenerateStatusCode=401
+Failed to reauthorise and regenerate 1 time(s) before proceeding
+previousRunDate='2026-08-12'
 Batch number:  1, status code (200 is good): 200
+Stewart And Smart price change: -7.0
 Batch number:  2, status code (200 is good): 200
 Batch number:  3, status code (200 is good): 200
-Fossoway Garage price change: 2.0
 Batch number:  4, status code (200 is good): 200
-Batch number:  5, 404, no more new prices
-Run date updated to:  2026-08-12
+Batch number:  5, status code (200 is good): 200
+Batch number:  6, 404, no more new prices
+Run date updated to:  2026-08-13
 Number of stations in input file: 13
 Number of stations in output: 13
 Number of price updates in this run: 1
