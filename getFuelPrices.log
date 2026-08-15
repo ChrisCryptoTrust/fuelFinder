@@ -1,15 +1,17 @@
-Fri 14 Aug 21:00:01 BST 2026
-regenerateStatusCode=200
-previousRunDate='2026-08-13'
+Sat 15 Aug 21:00:01 BST 2026
+regenerateStatusCode=401
+Failed to reauthorise and regenerate 1 time(s) before proceeding
+previousRunDate='2026-08-14'
 Batch number:  1, status code (200 is good): 200
 Batch number:  2, status code (200 is good): 200
 Batch number:  3, status code (200 is good): 200
+Mfg Morrisons Perth price change: -0.20000000000001705
 Batch number:  4, status code (200 is good): 200
 Batch number:  5, status code (200 is good): 200
 Batch number:  6, 404, no more new prices
-Run date updated to:  2026-08-14
+Run date updated to:  2026-08-15
 Number of stations in input file: 13
 Number of stations in output: 13
-Number of price updates in this run: 0
+Number of price updates in this run: 1
 Write index.html: returnCode=0
 Write detail.html: returnCode=0
