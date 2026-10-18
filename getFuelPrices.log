@@ -1,11 +1,10 @@
-Sat 17 Oct 21:00:01 BST 2026
+Sun 18 Oct 21:00:02 BST 2026
 regenerateStatusCode=200
-previousRunDate='2026-10-16'
+previousRunDate='2026-10-17'
 Batch number:  1, status code (200 is good): 200
 Batch number:  2, status code (200 is good): 200
-Batch number:  3, status code (200 is good): 200
-Batch number:  4, 404, no more new prices
-Run date updated to:  2026-10-17
+Batch number:  3, 404, no more new prices
+Run date updated to:  2026-10-18
 Number of stations in input file: 13
 Number of stations in output: 13
 Number of price updates in this run: 0
